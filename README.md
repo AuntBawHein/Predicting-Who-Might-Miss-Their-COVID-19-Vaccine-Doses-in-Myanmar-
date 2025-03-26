@@ -430,10 +430,15 @@ plt.xlabel("Age (Years)")
 plt.show()
 
 ![image](https://github.com/user-attachments/assets/857671f0-94e3-4af7-8e0b-0dbe64d8b26e)
+
 ![image](https://github.com/user-attachments/assets/4569e950-5e7b-4e87-9167-23d6c7ffa691)
+
 ![image](https://github.com/user-attachments/assets/e239dd8e-0463-4414-a667-347ca6c9189c)
+
 ![image](https://github.com/user-attachments/assets/2aa05918-ee3d-441b-8a25-0a9e49d1eb7b)
+
 ![image](https://github.com/user-attachments/assets/4f2b1653-1a7a-46b2-a019-8012e4099f0f)
+
 ![image](https://github.com/user-attachments/assets/d21aea81-928a-44eb-b3ec-a3e97bc1efab)
 
 Conclusions:
